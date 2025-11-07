@@ -1,0 +1,4 @@
+pyTelegramBotAPI==4.15.2
+requests==2.31.0
+fake_useragent==1.4.0
+Flask==2.3.3
